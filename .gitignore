@@ -1,0 +1,39 @@
+# Compiled Object files, templates, shared objects, dynamic libraries
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# Architectures
+*.a
+*.lib
+
+# CMake build directories
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
