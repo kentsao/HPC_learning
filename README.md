@@ -19,7 +19,7 @@ All local CPU-based parallel algorithms are developed and benchmarked on an **Ap
   - Initialized Git, Conda env (`hpc_learn`), compilers, and Homebrew support.
   - Implemented high-resolution C++ Timer class: [timer.hpp](file:///Users/kentsao/Desktop/HPC_learning/src/utils/timer.hpp).
   - Benchmarked Pass-by-Value vs. Pass-by-Reference memory copy overhead: [test_timer.cpp](file:///Users/kentsao/Desktop/HPC_learning/src/day01/test_timer.cpp).
-- [ ] **Day 2: OpenMP Shared Memory Programming** (Multi-threaded matrix multiplication/fractals).
+- [x] **[Day 2: OpenMP Shared Memory Programming](file:///Users/kentsao/Desktop/HPC_learning/src/day02/README.md)** (Multi-threaded matrix multiplication).
 - [ ] **Day 3: MPI Distributed Memory Programming** (Message passing, Pi estimation).
 - [ ] **Day 4: Cache Locality & Cache Tiling** (Loop blocking optimizations for GEMM).
 - [ ] **Day 5: SIMD Neon Vectorization** (Hand-written assembly/intrinsics vectorization).
