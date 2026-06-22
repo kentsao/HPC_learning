@@ -21,7 +21,7 @@ All local CPU-based parallel algorithms are developed and benchmarked on an **Ap
   - Benchmarked Pass-by-Value vs. Pass-by-Reference memory copy overhead: [test_timer.cpp](file:///Users/kentsao/Desktop/HPC_learning/src/day01/test_timer.cpp).
 - [x] **[Day 2: OpenMP Shared Memory Programming](file:///Users/kentsao/Desktop/HPC_learning/src/day02/README.md)** (Multi-threaded matrix multiplication).
 - [x] **[Day 3: MPI Distributed Memory Programming](file:///Users/kentsao/Desktop/HPC_learning/src/day03/README.md)** (Message passing, Pi estimation).
-- [ ] **Day 4: Cache Locality & Cache Tiling** (Loop blocking optimizations for GEMM).
+- [x] **[Day 4: Cache Locality & Cache Tiling](file:///Users/kentsao/Desktop/HPC_learning/src/day04/README.md)** (Loop blocking optimizations for GEMM).
 - [ ] **Day 5: SIMD Neon Vectorization** (Hand-written assembly/intrinsics vectorization).
 
 ### 📂 Week 2: GPU Architecture & High-Performance Deep Learning Systems
