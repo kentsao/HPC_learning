@@ -22,7 +22,7 @@ All local CPU-based parallel algorithms are developed and benchmarked on an **Ap
 - [x] **[Day 2: OpenMP Shared Memory Programming](file:///Users/kentsao/Desktop/HPC_learning/src/day02/README.md)** (Multi-threaded matrix multiplication).
 - [x] **[Day 3: MPI Distributed Memory Programming](file:///Users/kentsao/Desktop/HPC_learning/src/day03/README.md)** (Message passing, Pi estimation).
 - [x] **[Day 4: Cache Locality & Cache Tiling](file:///Users/kentsao/Desktop/HPC_learning/src/day04/README.md)** (Loop blocking optimizations for GEMM).
-- [ ] **Day 5: SIMD Neon Vectorization** (Hand-written assembly/intrinsics vectorization).
+- [x] **[Day 5: SIMD Neon Vectorization](file:///Users/kentsao/Desktop/HPC_learning/src/day05/README.md)** (Hand-written assembly/intrinsics vectorization).
 
 ### 📂 Week 2: GPU Architecture & High-Performance Deep Learning Systems
 - [ ] **Day 6: GPU Hardware Architecture** (SMs, warps, global vs. shared memory).
