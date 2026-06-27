@@ -25,7 +25,7 @@ All local CPU-based parallel algorithms are developed and benchmarked on an **Ap
 - [x] **[Day 5: SIMD Neon Vectorization](file:///Users/kentsao/Desktop/HPC_learning/src/day05/README.md)** (Hand-written assembly/intrinsics vectorization).
 
 ### 📂 Week 2: GPU Architecture & High-Performance Deep Learning Systems
-- [ ] **Day 6: GPU Hardware Architecture** (SMs, warps, global vs. shared memory).
+- [x] **[Day 6: GPU Hardware Architecture](file:///Users/kentsao/Desktop/HPC_learning/src/day06/gpu_arch_analysis.md)** (SMs, warps, global vs. shared memory).
 - [ ] **Day 7: PyTorch custom C++ / Metal Extensions**.
 - [ ] **Day 8: PyTorch Distributed Data Parallel (DDP) Simulation** (All-reduce under the hood).
 - [ ] **Day 9: Memory Optimization Foundations** (FSDP, DeepSpeed ZeRO 1/2/3, 3D Parallelism).
